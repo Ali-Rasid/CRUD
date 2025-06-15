@@ -1,1 +1,3 @@
-# CRUD
+# Create
+# Update
+# Delete
